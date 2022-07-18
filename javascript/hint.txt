@@ -1,2 +1,2 @@
 execute this command to run tests:
-mocha hasPathSpec.js
+mocha specHasPath.js
