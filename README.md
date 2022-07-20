@@ -29,7 +29,7 @@ To run the python tests run:
 python testFileName.py
 ```
 
-For example, to run testHasPath.py, run
+For example, to run testHasPath.py, run:
 ```
 python testHasPath.py
 ```
